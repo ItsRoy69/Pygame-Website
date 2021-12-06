@@ -943,7 +943,7 @@ html.is-ie .video-panel .video-panel-bg-video {
   width: 100%;
 }
 
-a {
+a .copyright-c copyright-a{
   color: black;
 }
 
