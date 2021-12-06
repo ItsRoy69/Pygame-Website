@@ -969,8 +969,11 @@ h1 {
   width: 100%;
 }
 
+a{
+  color: hsla(0, 0%, 100%, .8);
+}
 
-.caption,
+caption,
 h1,
 .date {
   margin: 0;
@@ -1014,5 +1017,3 @@ p{
 #content {
   text-align: center;
 }
-
-
