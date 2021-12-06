@@ -934,6 +934,88 @@ html.is-ie .video-panel .video-panel-bg-video {
   }
 
   .social-section .social-list .social-item~.social-item {
-    margin-left: 32px
-  }
+    margin-left: 32px }
 }
+
+
+
+.front img {
+  width: 100%;
+}
+
+a {
+  color: black;
+}
+
+.caption,
+h1,
+.date {
+  margin: 0;
+  text-align: center;
+}
+
+.caption,
+h1 {
+  font-family: "Reenie Beanie", sans-serif;
+  font-size: 2em;
+  padding: 10px 10px 0 10px;
+}
+
+
+
+
+
+.front img {
+  width: 100%;
+}
+
+a {
+  color: black;
+}
+
+.caption,
+h1,
+.date {
+  margin: 0;
+  text-align: center;
+}
+
+.caption,
+h1 {
+  font-family: "Reenie Beanie", sans-serif;
+  font-size: 2em;
+  padding: 10px 10px 0 10px;
+}
+p{
+  color: #d8d8d8;
+}
+
+
+
+
+.container-1 {
+  perspective: 1000px;
+  display: inline-block;
+  margin: 3%;
+}
+
+
+
+.container-1,
+.front,
+.back {
+  width: 250px;
+  height: 250px;
+}
+
+
+
+
+
+
+
+#content {
+  text-align: center;
+}
+
+
